@@ -1,0 +1,1 @@
+A tool that uses anonymised past defect and testing history to rate each new software release as high, medium or low risk and list the components to test first. (Jagan Dharanivasan)
